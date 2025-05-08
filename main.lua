@@ -1,7 +1,6 @@
 local RED = "|cFFFF4477";
 local YELLOW = "|cFFFFFFAA";
 local BLUE = "|cFF22AAFF";
--- ZPmCEYyCR4xZch
 local eventHandler = CreateFrame("Frame")
 eventHandler:RegisterEvent("ADDON_LOADED")
 
