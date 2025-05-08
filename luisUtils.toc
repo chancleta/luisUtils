@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: |cff33ffccLuis|cffffffffUtlis
+## Author: Luis Pena
+## Notes: A utility addon
+## Version: 0.1.0
+## SavedVariables: HelloWorldDB
+
+constants.lua
+utils.lua
+messageNotifications.lua
+readyCheck.lua
+main.lua
